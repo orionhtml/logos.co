@@ -12,9 +12,20 @@
     {
       "metadata": {
         "published": true,
+        "title": "Main"
+      },
+      "navOrder": 1679047137.62,
+      "localPath": "main.md",
+      "path": [],
+      "children": [],
+      "isDir": false
+    },
+    {
+      "metadata": {
+        "published": true,
         "title": "technology"
       },
-      "navOrder": 1678817883.996,
+      "navOrder": 1679047137.62,
       "localPath": "technology/index.md",
       "path": [
         "technology"
@@ -54,20 +65,9 @@
     {
       "metadata": {
         "published": true,
-        "title": "Main"
-      },
-      "navOrder": 1678817883.995,
-      "localPath": "main.md",
-      "path": [],
-      "children": [],
-      "isDir": false
-    },
-    {
-      "metadata": {
-        "published": true,
         "title": "About"
       },
-      "navOrder": 1678817880.993,
+      "navOrder": 1679047134.615,
       "localPath": "About.md",
       "path": [
         "about"
